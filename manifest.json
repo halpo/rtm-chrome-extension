@@ -1,0 +1,29 @@
+{
+   "manifest_version": 2,
+   "name":"Remember the Milk",
+   "version": "1.0.0",
+   "description": "Todo List Management",
+   "icons": {
+      "16":   "rtm-16.png",
+      "24":   "rtm-24.png",
+      "32":   "rtm-32.png",
+      "48":   "rtm-48.png",
+      "64":   "rtm-64.png",
+      "72":   "rtm-72.png",
+      "96":   "rtm-96.png",
+      "128":  "rtm-128.png",
+      "256":  "rtm-256.png",
+      "512":  "rtm-512.png",
+      "1024": "rtm-1024.png",
+      "scalable": "hulu.svg"
+   },
+   
+   
+   "app": {
+      "launch": {
+         "web_url": "https://www.rememberthemilk.com"
+      },
+      "urls": [ "https://www.rememberthemilk.com/", "http://www.rememberthemilk.com/", "http://www.rmilk.com/"]
+   },
+   "permissions": [ "notifications" ]
+}
